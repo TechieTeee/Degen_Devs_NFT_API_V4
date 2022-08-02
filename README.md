@@ -1,4 +1,4 @@
-# Degen Devs
+# Degen Devs V4
 - Built a web server and API for providing the features using the RESTful architecture
 - Ran a local node of IPFS
 - Uploaded 10 images to this node
